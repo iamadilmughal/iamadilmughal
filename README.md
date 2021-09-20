@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamadilmughal
+- 👀 I’m interested in JavaScript Related Tools and Technologies
+- 🌱 I’m currently learning many things. 
+- 💞️ I’m looking to collaborate on anything related to JavaScript, Python and Java
+- 📫 You can reach me by contacting here 
